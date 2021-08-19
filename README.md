@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sawantshubham086
+- 👋 Hi, I’m Shubham Sawant
 - 👀 I’m interested in SQL Development
 - 🌱 I’m currently working in Bajaj Finserve
 - 💞️ I’m looking to collaborate on varios projects related to SQL 
