@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Shubham Sawant
-- 👀 I’m interested in SQL Development
-- 🌱 I’m currently working in Bajaj Finserve
-- 💞️ I’m looking to collaborate on varios projects related to SQL 
-- 📫 reach me https://www.linkedin.com/in/shubham-sawant-53383b18a/ 
-- Email - sawantshubham086@gmail.com
-- what's app - 8796584705
-- Twitter - sawantshubham88
+👋 Hi, I’m Shubham Sawant
+👀 I’m a Content Writer with a passion for crafting engaging and informative content.
+🌱 Currently working at Allscripts Pvt. Ltd., where I'm honing my skills and contributing to various content initiatives.
+📫 Connect with me on LinkedIn : https://www.linkedin.com/in/shubham-sawant-53383b18a/
+📧 Email: sawantshubham086@gmail.com
+📱 WhatsApp: +91 8796584705
